@@ -1,0 +1,11 @@
+edition = "Edition2018"
+use_small_heuristics = "Off"
+format_strings = true
+match_block_trailing_comma = true
+max_width = 120
+force_multiline_blocks = true
+normalize_comments = true
+report_todo = "Always"
+report_fixme = "Always"
+wrap_comments = true
+
