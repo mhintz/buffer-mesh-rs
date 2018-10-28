@@ -4,4 +4,4 @@ version = "0.0.0"
 authors = ["Mark Hintz"]
 
 [dependencies]
-cgmath = '0.16.1'
+cgmath = { version = "0.16.1", features = ["mint"] }
